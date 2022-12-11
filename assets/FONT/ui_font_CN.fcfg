@@ -1,0 +1,16 @@
+{
+  "codename": "CN",
+  "ttf_path": "\\assets\\FONT\\youyuan.TTF",
+  "bin_path": "\\assets\\FONT\\ui_font_CN.bin",
+  "c_path": "\\assets\\FONT\\ui_font_CN.c",
+  "cfg_path": "\\assets\\FONT\\ui_font_CN.fcfg",
+  "size": 12,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x4E00-0x9FA5"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
